@@ -1,0 +1,39 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "echapter_guider"
+	group: ""
+	id: "6A069DEF23B3FA1D"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2115269C56057CAC"]
+			id: "092215D02C260FC4"
+			require_sequential_tasks: true
+			tasks: [{
+				id: "57CA9704A9DC80AF"
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["092215D02C260FC4"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:oak_planks"
+			}
+			id: "3B3EED3AD01DEA0D"
+			progression_mode: "linear"
+			require_sequential_tasks: true
+			tasks: [{
+				id: "5431BACAFA1F04AB"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+	]
+}

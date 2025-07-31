@@ -1,0 +1,4 @@
+#556 minecraft:beach
+#47F minecraft:birch_forest
+#4F1 minecraft:ocean
+#5FF minecraft:river

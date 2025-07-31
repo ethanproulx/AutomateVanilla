@@ -1,0 +1,216 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	id: "2B2BFEBAF988F243"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			id: "36469F9EE739FE74"
+			rewards: [
+				{
+					count: 16
+					id: "3E8E66CCD5546AF3"
+					item: {
+						count: 1
+						id: "minecraft:cooked_beef"
+					}
+					type: "item"
+				}
+				{
+					id: "2F5232F90FDA6ED3"
+					item: {
+						count: 1
+						id: "minecraft:map"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0214A197E11F0984"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["36469F9EE739FE74"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "create:cogwheel"
+			}
+			id: "4DC8EA0E3544AA95"
+			rewards: [
+				{
+					id: "3CD4BBE8D0719293"
+					item: {
+						count: 1
+						id: "create:wrench"
+					}
+					type: "item"
+				}
+				{
+					id: "41305D6B04977F07"
+					item: {
+						count: 1
+						id: "create:goggles"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "06DDD266F88F8E5B"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["36469F9EE739FE74"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:profile": {
+						id: [I;
+							1576034720
+							1554793707
+							-1839689419
+							-1253031716
+						]
+						name: "TheAngryHermit"
+						properties: [{
+							name: "textures"
+							signature: "RNJ7bBmDYpIfOIP2b0rFZO0jkLabhyinUb3/HFDtQM4nbBjnv7wmFpWFrRcT99YFiQcpfFl0VvHiAccVXFceExKhMkdqRCrzuAJhAGaGHgmcrQjm6HakX9GflXRDc1TF6yf9CJoiKFaEbfRYc8TZvjFCOQj1QIT1XJrb9OAJwTTDFVk5KSWVedaUP/9mvw3IHn3J8JHk+yxkCf+AFDWE5+WFE8fP2d8iobzUESuBTcDKE/BbmdKCB73m6mRvgaJjRDTUOS7Q+5mYmPEO+u9HlHD3h63Fa9OH7JnBEfmWTBuNj9Xcac9FHWO4c2k7HLXDp/uYmAs4179syo4nkqhBdXNsxCs7PkIm5F+3AppMm1pZUTkt3oAX7g63bn+F99vNlS6jnNZ3VpSP2ZUG+Bsd8fGSqcdYOqKnI6v1+hCp9hc5Vz8Xo5AMyZ9omp+neVo8JTwl8gyyxNUJeWBnA5GBfRVZMJNtz1L5DkK1lcD1pYg+stcPriPmIi/M4QlE/wVnhYGOie2rOyFK8KaUYAivn7NFYBEiAXm4b9UGilNHjFQxEIodmafqf2hev6iNjS71GEkR1eECf/nB8FBWfCp3RVBVfO1BXyBx1hi0l5ntfoNxy5no3vAWMHm2ik83utvEpQ/M7PfKEhDJ4hRkMwFoNOgaivTmH0BItk4QP6iEHek="
+							value: "ewogICJ0aW1lc3RhbXAiIDogMTc1MTkzMDAyMTQ2OCwKICAicHJvZmlsZUlkIiA6ICI1ZGYwNjFhMDVjYWM0NGViOTI1ODkxMzViNTUwNDBkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVBbmdyeUhlcm1pdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83Zjc2M2JlN2IxN2M5ODY5ZTRiOTkzOTYxNzc0NjAwZTA0Nzg2MTY0NTBiOTg5MTUzN2JmOTkxNjA3MDdhMTc1IgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ=="
+						}]
+					}
+				}
+				id: "minecraft:player_head"
+			}
+			id: "739E248E99C5782D"
+			rewards: [{
+				id: "21E9BB83215C2708"
+				item: {
+					components: {
+						"minecraft:profile": {
+							id: [I;
+								1576034720
+								1554793707
+								-1839689419
+								-1253031716
+							]
+							name: "TheAngryHermit"
+							properties: [{
+								name: "textures"
+								signature: "RNJ7bBmDYpIfOIP2b0rFZO0jkLabhyinUb3/HFDtQM4nbBjnv7wmFpWFrRcT99YFiQcpfFl0VvHiAccVXFceExKhMkdqRCrzuAJhAGaGHgmcrQjm6HakX9GflXRDc1TF6yf9CJoiKFaEbfRYc8TZvjFCOQj1QIT1XJrb9OAJwTTDFVk5KSWVedaUP/9mvw3IHn3J8JHk+yxkCf+AFDWE5+WFE8fP2d8iobzUESuBTcDKE/BbmdKCB73m6mRvgaJjRDTUOS7Q+5mYmPEO+u9HlHD3h63Fa9OH7JnBEfmWTBuNj9Xcac9FHWO4c2k7HLXDp/uYmAs4179syo4nkqhBdXNsxCs7PkIm5F+3AppMm1pZUTkt3oAX7g63bn+F99vNlS6jnNZ3VpSP2ZUG+Bsd8fGSqcdYOqKnI6v1+hCp9hc5Vz8Xo5AMyZ9omp+neVo8JTwl8gyyxNUJeWBnA5GBfRVZMJNtz1L5DkK1lcD1pYg+stcPriPmIi/M4QlE/wVnhYGOie2rOyFK8KaUYAivn7NFYBEiAXm4b9UGilNHjFQxEIodmafqf2hev6iNjS71GEkR1eECf/nB8FBWfCp3RVBVfO1BXyBx1hi0l5ntfoNxy5no3vAWMHm2ik83utvEpQ/M7PfKEhDJ4hRkMwFoNOgaivTmH0BItk4QP6iEHek="
+								value: "ewogICJ0aW1lc3RhbXAiIDogMTc1MTkzMDAyMTQ2OCwKICAicHJvZmlsZUlkIiA6ICI1ZGYwNjFhMDVjYWM0NGViOTI1ODkxMzViNTUwNDBkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVBbmdyeUhlcm1pdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83Zjc2M2JlN2IxN2M5ODY5ZTRiOTkzOTYxNzc0NjAwZTA0Nzg2MTY0NTBiOTg5MTUzN2JmOTkxNjA3MDdhMTc1IgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ=="
+							}]
+						}
+					}
+					count: 1
+					id: "minecraft:player_head"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B188647C8E07E66"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["36469F9EE739FE74"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:profile": {
+						id: [I;
+							-1523768164
+							-1857138855
+							-2002714569
+							1615030732
+						]
+						name: "MrBeardstone"
+						properties: [{
+							name: "textures"
+							signature: "QX5Se4E+0hzLpEesveXZt2AmQHfK5zq80UtBM9d5QR7VVIRlhrP8YiUafuhDebFE5rmS5xBQQBmlHra83Cmt/hBoX7e8Wqv/wpsJc7UWGLfPDF912t1BLWJmEobjbPB1I8r7YkOCpZ1pWOQdDrWXOO1KbL1kf8PJrpxCtvjXZAdhgfDfv06/L7nMi+zOOa3qp59AI52zFO9AP7aQXLacaZCdtE33vZ1kdJjB+9RdURDEzW7fUUgx006dLpjYn+JJupRKUtuUYOcofypzB7GnHQYpkoKleFI4gGqSyjv3O3DxFb4oIv4cWPbbdRIdyodnY3wLaoIXV9zXiLbsaavdc27bCCUYyYGCfiPX2POKzNYLhrw4kZa+sTbwKD/pvNArzYn1Hs6IGXhB+3tOaXEUtxUIF7QUUstdOYhNMGzHKSaYAuI6XCS77Bgi7SaKvU0pYE755L5lqzlFf1LZaY/rdbtjPBFMwaIVK6mF01LGGHb+8hx9a5h61KYqT+WP4/3gylS1y3uht2th2CXwf84YjoTK5b26f19jN5yvxkUy5lN9NrtMI1i9LUv90nmfGQ2iOjggArmwhVGLoUGtn5Q9I8TFsWgwzvFaF0UJ+w9mYUjNCvpSW5Bc0xdcvz5FWYpTeWUs/W0sUqqTkX9MCZGLi6CrbZpnCQXSQQz9v3tJ7jk="
+							value: "ewogICJ0aW1lc3RhbXAiIDogMTc1MTkzMDg1MTk4NywKICAicHJvZmlsZUlkIiA6ICJhNTJkMjQ5YzkxNGU0ZjU5ODhhMTAwMzc2MDQzNjljYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckJlYXJkc3RvbmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhmZjhmMzc2NTMyZWIxMjQ2YTdjZjk4NGYzMDQ3ZTNhZjVlZWVjYWI2NjM3M2NmY2NkZmYzMWY5ZGM2YTAxMCIKICAgIH0KICB9Cn0="
+						}]
+					}
+				}
+				id: "minecraft:player_head"
+			}
+			id: "5BB1FF4ADDC02269"
+			rewards: [
+				{
+					id: "151CE9601FBCC612"
+					item: {
+						components: {
+							"minecraft:profile": {
+								id: [I;
+									-1523768164
+									-1857138855
+									-2002714569
+									1615030732
+								]
+								name: "MrBeardstone"
+								properties: [{
+									name: "textures"
+									signature: "QX5Se4E+0hzLpEesveXZt2AmQHfK5zq80UtBM9d5QR7VVIRlhrP8YiUafuhDebFE5rmS5xBQQBmlHra83Cmt/hBoX7e8Wqv/wpsJc7UWGLfPDF912t1BLWJmEobjbPB1I8r7YkOCpZ1pWOQdDrWXOO1KbL1kf8PJrpxCtvjXZAdhgfDfv06/L7nMi+zOOa3qp59AI52zFO9AP7aQXLacaZCdtE33vZ1kdJjB+9RdURDEzW7fUUgx006dLpjYn+JJupRKUtuUYOcofypzB7GnHQYpkoKleFI4gGqSyjv3O3DxFb4oIv4cWPbbdRIdyodnY3wLaoIXV9zXiLbsaavdc27bCCUYyYGCfiPX2POKzNYLhrw4kZa+sTbwKD/pvNArzYn1Hs6IGXhB+3tOaXEUtxUIF7QUUstdOYhNMGzHKSaYAuI6XCS77Bgi7SaKvU0pYE755L5lqzlFf1LZaY/rdbtjPBFMwaIVK6mF01LGGHb+8hx9a5h61KYqT+WP4/3gylS1y3uht2th2CXwf84YjoTK5b26f19jN5yvxkUy5lN9NrtMI1i9LUv90nmfGQ2iOjggArmwhVGLoUGtn5Q9I8TFsWgwzvFaF0UJ+w9mYUjNCvpSW5Bc0xdcvz5FWYpTeWUs/W0sUqqTkX9MCZGLi6CrbZpnCQXSQQz9v3tJ7jk="
+									value: "ewogICJ0aW1lc3RhbXAiIDogMTc1MTkzMDg1MTk4NywKICAicHJvZmlsZUlkIiA6ICJhNTJkMjQ5YzkxNGU0ZjU5ODhhMTAwMzc2MDQzNjljYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckJlYXJkc3RvbmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhmZjhmMzc2NTMyZWIxMjQ2YTdjZjk4NGYzMDQ3ZTNhZjVlZWVjYWI2NjM3M2NmY2NkZmYzMWY5ZGM2YTAxMCIKICAgIH0KICB9Cn0="
+								}]
+							}
+						}
+						count: 1
+						id: "minecraft:player_head"
+					}
+					type: "item"
+				}
+				{
+					id: "6506A6A703AEC9F7"
+					item: {
+						count: 1
+						id: "supplementaries:pedestal"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7B8CF68D55C050FA"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"4DC8EA0E3544AA95"
+				"739E248E99C5782D"
+				"5BB1FF4ADDC02269"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "2115269C56057CAC"
+			rewards: [{
+				id: "1C7038C6F58D25CC"
+				item: {
+					count: 1
+					id: "create:builders_tea"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0B0620B3273FB0CC"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+	]
+}

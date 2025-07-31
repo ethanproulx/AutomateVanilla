@@ -1,0 +1,3 @@
+#4CA minecraft:dripstone_caves
+#3DC minecraft:plains
+#5FF minecraft:river

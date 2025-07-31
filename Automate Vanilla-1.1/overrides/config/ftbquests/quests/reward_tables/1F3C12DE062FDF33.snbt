@@ -1,0 +1,39 @@
+{
+	id: "1F3C12DE062FDF33"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			id: "4E8671740E5B23DA"
+			item: {
+				count: 1
+				id: "minted:copper_coin"
+			}
+			weight: 0.925f
+		}
+		{
+			id: "6267586F93A359D5"
+			item: {
+				count: 1
+				id: "minted:iron_coin"
+			}
+			weight: 0.05f
+		}
+		{
+			id: "4F5CA534C825397C"
+			item: {
+				count: 1
+				id: "minted:gold_coin"
+			}
+			weight: 0.02f
+		}
+		{
+			id: "47591AF433563D57"
+			item: {
+				count: 1
+				id: "minted:netherite_coin"
+			}
+			weight: 0.005f
+		}
+	]
+}

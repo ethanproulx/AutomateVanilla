@@ -1,0 +1,337 @@
+{
+  "favorites": [
+    {
+      "stack": "item:createmechanisms:wooden_mechanism"
+    },
+    {
+      "stack": "item:createmechanisms:rubber_mechanism"
+    },
+    {
+      "stack": "item:createmechanisms:advanced_precision_mechanism"
+    },
+    {
+      "stack": "item:createmechanisms:heat_mechanism"
+    },
+    {
+      "stack": "item:createmechanisms:zinc_mechanism"
+    },
+    {
+      "stack": "item:createmechanisms:computing_mechanism"
+    },
+    {
+      "stack": "item:createmechanisms:ender_mechanism"
+    },
+    {
+      "stack": "item:createmechanisms:cured_rubber"
+    },
+    {
+      "stack": "item:createmechanisms:rubber"
+    },
+    {
+      "stack": "item:createmechanisms:bronze"
+    },
+    {
+      "stack": "item:createmechanisms:enderiam_bucket"
+    },
+    {
+      "stack": "item:createmechanisms:copper_saw"
+    },
+    {
+      "stack": "item:createmechanisms:iron_saw"
+    },
+    {
+      "stack": "item:createmechanisms:diamond_saw"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "create:shadow_steel",
+        "amount": 64
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "create:refined_radiance",
+        "amount": 64
+      }
+    },
+    {
+      "stack": "item:kubejs:shadow_radiance"
+    }
+  ],
+  "lookup_history": [
+    "item:create:millstone",
+    "item:createmechanisms:ender_mechanism",
+    "item:create_mobile_packages:portable_stock_ticker{\"create_mobile_packages:address_tag\":\"TheAngryHermit\",\"create_mobile_packages:categories\":[],\"create_mobile_packages:cmp_freq\":{Freq:[I;-82679788,-2052109644,-1967906730,-282913412]},\"create_mobile_packages:hidden_categories\":{5df061a0-5cac-44eb-9258-9135b55040dc:[]}}",
+    {
+      "type": "fluid",
+      "id": "create_enchantment_industry:experience",
+      "amount": 0
+    },
+    "item:kubejs:shadow_radiance",
+    {
+      "type": "fluid",
+      "id": "create_dragons_plus:dragon_breath",
+      "amount": 1000
+    },
+    "item:create_dragons_plus:dragon_breath_bucket",
+    "item:minecraft:amethyst_cluster",
+    "item:minecraft:amethyst_shard",
+    "item:travelersbackpack:blank_upgrade",
+    "item:travelersbackpack:standard{\"travelersbackpack:starter_upgrades\":[{count:1,id:\"travelersbackpack:tanks_upgrade\"}]}",
+    "item:create_connected:creative_fluid_vessel",
+    "item:create_enchantment_industry:super_experience_nugget",
+    "item:create_enchantment_industry:super_experience_block",
+    "item:create:creative_crate",
+    "item:kubejs:nether_star_block",
+    "item:create:mechanical_press",
+    "item:kubejs:spectral_fluid_bucket",
+    {
+      "type": "fluid",
+      "id": "kubejs:spectral_fluid",
+      "amount": 1000
+    },
+    "item:kubejs:chromatic_compound",
+    "item:minecraft:bucket",
+    {
+      "type": "fluid",
+      "id": "create_dragons_plus:green_dye",
+      "amount": 200
+    },
+    "item:minecraft:cobblestone",
+    "item:create:blaze_burner",
+    "item:create:blaze_cake_base",
+    {
+      "type": "fluid",
+      "id": "create_dragons_plus:red_dye",
+      "amount": 1000
+    },
+    "item:create_dragons_plus:red_dye_bucket",
+    {
+      "type": "fluid",
+      "id": "create_dragons_plus:purple_dye",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "create_dragons_plus:blue_dye",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "create_dragons_plus:yellow_dye",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "create_dragons_plus:orange_dye",
+      "amount": 1000
+    },
+    "item:create_dragons_plus:orange_dye_bucket",
+    {
+      "type": "fluid",
+      "id": "create_dragons_plus:magenta_dye",
+      "amount": 250
+    },
+    "item:create:mechanical_mixer",
+    "item:create_dragons_plus:magenta_dye_bucket",
+    "item:create_dragons_plus:blue_dye_bucket",
+    "item:create_dragons_plus:light_gray_dye_bucket",
+    "item:create_dragons_plus:gray_dye_bucket",
+    "item:create_dragons_plus:black_dye_bucket",
+    "item:create_dragons_plus:white_dye_bucket",
+    "item:create_dragons_plus:green_dye_bucket",
+    "item:unusual_furniture:spruce_drawer",
+    "item:create:item_drain",
+    "item:createchickennuggets:trex_nugget_mold",
+    "item:create:factory_gauge",
+    "item:create:precision_mechanism",
+    "item:create_factory_logistics:factory_fluid_gauge",
+    "item:create:transmitter",
+    "item:create:stock_link",
+    "item:create:redstone_requester",
+    "item:create:packager",
+    "item:create_factory_logistics:jar_packager",
+    "item:create:package_frogport",
+    "item:minecraft:barrel",
+    "item:create:fluid_tank",
+    "item:minecraft:lever",
+    "item:create_enchantment_industry:experience_hatch",
+    "item:create:wrench",
+    "item:create_factory_logistics:fluid_mechanism",
+    "item:minecraft:blaze_rod",
+    "item:minecraft:blaze_powder",
+    "item:minecraft:magma_cream",
+    "item:minecraft:magma_block",
+    "item:minecraft:obsidian",
+    "item:create:powdered_obsidian",
+    "item:create:sturdy_sheet",
+    "item:create:stock_ticker",
+    "item:minecraft:ghast_spawn_egg",
+    "item:create_power_loader:empty_brass_chunk_loader",
+    "item:create_power_loader:empty_andesite_chunk_loader",
+    "item:create:item_vault",
+    "item:create_dragons_plus:pink_dye_bucket",
+    {
+      "type": "fluid",
+      "id": "create_dragons_plus:pink_dye",
+      "amount": 1000
+    },
+    [
+      "fluid:create_enchantment_industry:experience",
+      "#fluid:c:dyes"
+    ],
+    "fluid:create_dragons_plus:black_dye",
+    {
+      "type": "fluid",
+      "id": "create_dragons_plus:brown_dye",
+      "amount": 1000
+    },
+    "item:create_dragons_plus:brown_dye_bucket",
+    "item:create:package_filter",
+    "item:create:flywheel",
+    "item:minecraft:crying_obsidian",
+    "item:minecraft:respawn_anchor",
+    "item:create_connected:empty_fan_catalyst",
+    "item:create:brown_toolbox",
+    "item:create:orange_toolbox",
+    "item:create:pulse_repeater",
+    "item:create:adjustable_chain_gearshift",
+    "item:create:crushing_wheel",
+    "item:create:encased_fan",
+    "item:create:gearbox",
+    "item:create:cogwheel",
+    "item:minecraft:charcoal",
+    "item:create:gearshift",
+    "item:create:clutch",
+    "item:create:vertical_gearbox",
+    "item:create:clockwork_bearing",
+    "item:create:rotation_speed_controller",
+    "item:create:electron_tube",
+    "item:create:mechanical_crafter",
+    "item:create:attribute_filter",
+    "item:create:filter",
+    "item:ftbfiltersystem:smart_filter",
+    "item:create:mechanical_arm",
+    {
+      "type": "item",
+      "id": "create:brass_ingot",
+      "amount": 16
+    },
+    "item:create:copper_backtank{\"create:banktank_air\":900}",
+    "item:create:netherite_backtank{\"create:banktank_air\":900}",
+    "item:create:copper_diving_helmet",
+    "item:create:netherite_diving_helmet",
+    "item:create:creative_motor",
+    "item:create:spout",
+    "item:create:chocolate_bucket",
+    {
+      "type": "fluid",
+      "id": "create:chocolate",
+      "amount": 0
+    },
+    "item:create:cinder_flour",
+    "item:create:blaze_cake",
+    "item:create:bar_of_chocolate",
+    {
+      "type": "fluid",
+      "id": "minecraft:milk",
+      "amount": 250
+    },
+    {
+      "type": "item",
+      "id": "create:copper_nugget",
+      "amount": 3
+    },
+    "item:minecraft:copper_ingot",
+    "item:create:copper_casing",
+    "item:createmechanisms:diamond_saw",
+    "item:createmechanisms:enderiam_bucket",
+    {
+      "type": "fluid",
+      "id": "createmechanisms:enderiam",
+      "amount": 0
+    },
+    "item:createmechanisms:bronze",
+    "item:createmechanisms:rubber",
+    "item:minecraft:stone",
+    "item:minecraft:iron_sword",
+    "item:minecraft:diamond_sword",
+    "item:minecraft:crafting_table",
+    "item:createmechanisms:copper_saw",
+    "item:createmechanisms:iron_saw",
+    "item:create:deployer",
+    "item:create:brass_hand",
+    {
+      "type": "item",
+      "id": "create:refined_radiance_casing",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "create:shadow_steel_casing",
+      "amount": 64
+    },
+    "item:create_enchantment_industry:printer",
+    "item:create_dragons_plus:blaze_upgrade_smithing_template",
+    "item:create:polished_rose_quartz",
+    "item:create:red_sand_paper",
+    "item:create:rose_quartz",
+    "item:minecraft:wither_skeleton_skull",
+    "item:create:cardboard",
+    "item:create:pulp",
+    "item:create:cart_assembler",
+    "item:create:mechanical_harvester",
+    "item:create:stockpile_switch",
+    "item:minecraft:oak_sign",
+    "item:create:creative_fluid_tank",
+    "item:minecraft:water_bucket",
+    "item:minted:netherite_coin",
+    "item:create:mechanical_bearing",
+    "item:create:windmill_bearing",
+    "item:create_connected:fan_blasting_catalyst",
+    "item:create:steam_engine",
+    "item:minted:mobile_atm",
+    "item:minted:bank",
+    "item:minted:iron_coin",
+    "item:minted:copper_coin",
+    "item:ftbquests:book",
+    "item:create:crimsite",
+    "item:create:crushed_raw_iron",
+    "item:minecraft:iron_nugget",
+    "item:minecraft:iron_ingot",
+    "item:create:white_sail",
+    "item:create:sail_frame",
+    "item:create:brass_sheet",
+    "item:minecraft:dried_kelp",
+    "item:create:belt_connector",
+    "item:create_connected:fan_withering_catalyst",
+    "item:create:propeller",
+    "item:create:whisk",
+    "item:create:water_wheel",
+    "item:create:large_water_wheel",
+    "item:create:andesite_casing",
+    "item:create:green_toolbox",
+    "item:create:white_toolbox",
+    "#item:c:tools/knife",
+    "item:farmersdelight:cutting_board",
+    "item:farmersdelight:flint_knife",
+    "item:minecraft:paper",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:mundane\"}}",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:water\"}}",
+    "item:exposure:color_film{\"exposure:film_frames\":[{extra_data:{day_time:85108,dimension:\"minecraft:overworld\",focal_length:21,light_level:8,on_stand:1b,pitch:0.7498634f,pos:[12.5d,116.0d,-26.5d],shutter_speed:\"1/60\",timestamp:1752089040L,weather:\"Clear\",yaw:90.299995f},identifier:\"TheAngryHermit_85108\",photographer:{name:\"TheAngryHermit\",uuid:[I;1576034720,1554793707,-1839689419,-1253031716]}}]}",
+    "item:farmersdelight:cooking_pot",
+    "item:farmersdelight:skillet",
+    "item:farmersdelight:stove",
+    "item:minecraft:stripped_spruce_wood"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

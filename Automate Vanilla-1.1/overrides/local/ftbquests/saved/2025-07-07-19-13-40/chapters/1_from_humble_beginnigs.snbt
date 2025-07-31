@@ -1,0 +1,28 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1_from_humble_beginnigs"
+	group: "1BE2CA79BD3D52AC"
+	id: "6AE260FF8C3DDA6B"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "48C3DAB92EF0DD55"
+		tasks: [
+			{
+				count: 16L
+				id: "1AC9356582A6387B"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}
+			{
+				id: "3511863133D40442"
+				item: { count: 1, id: "minecraft:wooden_axe" }
+				type: "item"
+			}
+		]
+		x: 0.0d
+		y: -1.5d
+	}]
+}
